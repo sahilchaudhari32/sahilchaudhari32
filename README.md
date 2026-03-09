@@ -1,6 +1,7 @@
-<h3 align="center">Hey👋 What's Up,</h3>
-
-<h1 align="center">I'm Sahil Chaudhari </h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=260&section=header&text=Hey👋%20What's%20Up,&fontSize=38&fontAlign=50&fontAlignY=30&fontColor=ffffff&desc=I%20am%20Sahil%20Chaudhari&descAlign=50&descAlignY=50&descSize=30"/>
+</p>
+<!-- <h1 align="center">I'm Sahil Chaudhari </h1> -->
 <h4 align="center">Currently, I am a 1st-year (2nd semester) student at CodingGita, Swaminarayan University. </h4>
 
 <p align="center">
@@ -41,8 +42,17 @@
 I am a **developer** passionate about building interactive tools and logical applications.  
 I enjoy working close to fundamentals — from **C programming** to **clean HTML/CSS layouts**.
 
-- 🔭 **Current Focus:** Improving programming and development skills  
-- ⚡ **Strength:** Debugging C logic & pixel-perfect CSS  
+🔭 **Current Focus**
+- Improving programming fundamentals
+- Building real-world development projects
+- Strengthening backend and frontend development skills
+
+⚡ **Strengths**
+- Debugging complex **C programming logic**
+- Writing **clean and maintainable code**
+- Creating **pixel-perfect CSS layouts**
+- Strong focus on **problem solving and logic building**
+
 - 🎨 **Interests:** Interactive web apps using HTML, CSS & JavaScript , react, python, ruby ... etc. 
 
 ---
@@ -54,29 +64,55 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 
 ## <h1 align="center">🛠️ My Tech Toolbox</h1>
 
-### <h1 align="center">Languages Known</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue" />
-</p>
+<div align="center">
+ 
+<div align="center"><h3 align="center">Frontend</h3>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" align="center" alt="typescript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src = "https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="tailwindcss"/>
 
-### <h1 align="center">Tools in Backend</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+ <br/>
+<div align="center"><h3 align="center">Backend</h3> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+<img src="https://img.shields.io/badge/Mongoose-%2300f.svg?style=for-the-badge&logoColor=white" alt="mongoose"/>
+<img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="restapi"/>
+ </div>
+ 
+ <div align="center"><h3 align="center">Tools</h3> 
 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
+<img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify" />
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
+<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
+<br />
 ---
 
+<h3 align="left">🎯 Goals</h3>
+
+<p align="left">
+🚀 Become a strong <b>Full-Stack Developer</b><br>
+🛠 Build useful tools and real-world applications<br>
+📈 Continuously improve programming knowledge
+</p>
+
+<h3 align="left">📚 Learning Mindset</h3>
+
+<p align="left">
+🔍 Exploring new technologies<br>
+🧩 Solving programming challenges<br>
+⚡ Improving development and problem-solving skills
+</p>
+  
 ## 📊 Performance & Stats
 
 <div align="center">
@@ -86,19 +122,33 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 
 ---
 
+
+
 ## 📈 GitHub Activity Graph
 
 <p align="center">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchaudhari32&theme=react-dark&hide_border=true&area=true" alt="Sahil's Activity Graph" />
 </p>
 
-## 🚀 Let's Build Something Amazing Together!
+<h4 align="left">🚀 **What I Love Building**</h4>
+
+<p align="left">- Interactive web tools</p>
+<p align="left">- Logic-based applications</p>
+<p align="left">- Clean and responsive web interfaces</p>
+
+   <p align="center">
+    <i>Take a look at my repositories and let's get in touch!</i><br><br>
+    <code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
+   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+</p>
 
 <p align="center">
   <a href="mailto:sahil.v.chaudhari.cg@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<p align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=150&section=footer" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=300&section=footer"/>
 </p>
