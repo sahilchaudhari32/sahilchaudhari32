@@ -47,6 +47,7 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 
 ---
 
+
 ## <h1 align="center">🛠️ My Tech Toolbox</h1>
 
 ### <h1 align="center">Languages Known</h1>
@@ -71,6 +72,21 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 </p>
 
 ---
+
+## 📊 Performance & Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilchaudhari32&theme=tokyonight&hide_border=true" alt="Sahil's GitHub Streak" />
+</div>
+<br />
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchaudhari32&theme=react-dark&hide_border=true&area=true" alt="Sahil's Activity Graph" />
+</p>
 
 ## 🚀 Let's Build Something Amazing Together!
 
