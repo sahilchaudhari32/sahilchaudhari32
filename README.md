@@ -72,24 +72,6 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 
 ---
 
-## ⭐ Top Projects
-
-### 🧠 Pokemon Hand Gesture Battle
-*You experience real pokemon battle with your hand.*
-
-- **Stack:** HTML, CSS, JavaScript 
-- 🔗 [View Repository](https://github.com/sahilchaudhari32/My-own-experiment/blob/main/pokemon-battle-geastur/index.html)
-
----
-
-### 🃏 Clone Projects
-*My own clone website projects.*
-
-- **Stack:** HTML, CSS  
-- 🔗 [View Repository](https://github.com/sahilchaudhari32/Projects)
-
----
-
 ## 🚀 Let's Build Something Amazing Together!
 
 <p align="center">
