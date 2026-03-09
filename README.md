@@ -46,7 +46,11 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 - 🎨 **Interests:** Interactive web apps using HTML, CSS & JavaScript , react, python, ruby ... etc. 
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/sahilchaudhari32/sahilchaudhari32/output/github-snake-dark.svg"/>
+</p>
 
 ## <h1 align="center">🛠️ My Tech Toolbox</h1>
 
