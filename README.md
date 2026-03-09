@@ -36,7 +36,7 @@
 
 ---
 
-## 📘 About Me
+## 📘 About Me<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="420" height="300" align="right" />
 
 I am a **developer** passionate about building interactive tools and logical applications.  
 I enjoy working close to fundamentals — from **C programming** to **clean HTML/CSS layouts**.
@@ -78,4 +78,7 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
   <a href="mailto:sahil.v.chaudhari.cg@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+<p align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=150&section=footer" />
 </p>
