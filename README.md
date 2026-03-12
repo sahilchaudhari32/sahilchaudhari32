@@ -121,9 +121,23 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 <br />
 
 ---
+<p>
+ <h1>🌐 Connect With Me</h1>
+
+[![YouTube](https://img.shields.io/badge/YouTube-Code%20With%20Sahil-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codewithsahil-1e9)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil%20Chaudhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-chaudhari-4b2960376/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-sahilchaudhari32-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilchaudhari32)
+
+[![X](https://img.shields.io/badge/X-Sahil_cdry-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sahil_cdry)
+
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-Profile-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/34707284)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-DarkDevil-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DarkDevil-/)
 
 
-
+</p>
 ## 📈 GitHub Activity Graph
 
 <p align="center">
