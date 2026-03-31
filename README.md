@@ -1,7 +1,8 @@
-<p align="center">
+<!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=260&section=header&text=Hey👋%20What's%20Up,&fontSize=38&fontAlign=50&fontAlignY=30&fontColor=ffffff&desc=I%20am%20Sahil%20Chaudhari&descAlign=50&descAlignY=50&descSize=30"/>
-</p>
-<!-- <h1 align="center">I'm Sahil Chaudhari </h1> -->
+</p> -->
+<h2 align="center">Hey👋 What's </h2>
+<h1 align="center">I'm Sahil Chaudhari </h1> 
 <h4 align="center">Currently, I am a 1st-year (2nd semester) student at CodingGita, Swaminarayan University. </h4>
 
 <p align="center">
