@@ -1,8 +1,8 @@
-<!-- <p align="center">
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=260&section=header&text=Hey👋%20What's%20Up,&fontSize=38&fontAlign=50&fontAlignY=30&fontColor=ffffff&desc=I%20am%20Sahil%20Chaudhari&descAlign=50&descAlignY=50&descSize=30"/>
-</p> -->
-<h2 align="center">Hey👋 What's </h2>
-<h1 align="center">I'm Sahil Chaudhari </h1> 
+</p> 
+<!-- <h2 align="center">Hey👋 What's </h2>
+<h1 align="center">I'm Sahil Chaudhari </h1>  -->
 <h4 align="center">Currently, I am a 1st-year (2nd semester) student at CodingGita, Swaminarayan University. </h4>
 
 <p align="center">
@@ -122,24 +122,39 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 <br />
 
 ---
-<p>
- <h1>🌐 Connect With Me</h1>
+## 🌐 Connect With Me  
 
-[![YouTube](https://img.shields.io/badge/YouTube-Code%20With%20Sahil-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codewithsahil-1e9)
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil%20Chaudhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-chaudhari-4b2960376/)
+<a href="https://www.youtube.com/@codewithsahil-1e9">
+  <img src="https://img.shields.io/badge/YouTube-Code%20With%20Sahil-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sahilchaudhari32-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilchaudhari32)
+<a href="https://www.linkedin.com/in/sahil-chaudhari-4b2960376/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Chaudhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![X](https://img.shields.io/badge/X-Sahil_cdry-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sahil_cdry)
+<a href="https://github.com/sahilchaudhari32">
+  <img src="https://img.shields.io/badge/GitHub-sahilchaudhari32-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[![SoloLearn](https://img.shields.io/badge/SoloLearn-Profile-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/34707284)
+<a href="https://x.com/Sahil_cdry">
+  <img src="https://img.shields.io/badge/X-Sahil__cdry-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-DarkDevil-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DarkDevil-/)
+<br/>
 
+<a href="https://www.sololearn.com/en/profile/34707284">
+  <img src="https://img.shields.io/badge/SoloLearn-Profile-149EF2?style=for-the-badge&logo=sololearn&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/DarkDevil-/">
+  <img src="https://img.shields.io/badge/LeetCode-DarkDevil-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
 </p>
-## 📈 GitHub Activity Graph
+
+ ## 📈 GitHub Activity Graph
 
 <p align="center">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchaudhari32&theme=react-dark&hide_border=true&area=true" alt="Sahil's Activity Graph" />
