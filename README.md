@@ -12,25 +12,6 @@
 ### <pre margin:20px> 🌐Web Developer  |  C Programmer  |  💻Creative Coder  |  🎮Game Developer  |  🎮Gamer</pre>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahil-chaudhari-4b2960376/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:sahil.v.chaudhari.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@codewithsahil-1e9" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  &nbsp;
- <a href="https://x.com/Sahil_cdry" target="_blank">
-  <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-</p>
-
-<p align="center">
   🔧 <b>Skills:</b> Web Development &nbsp;|&nbsp;
    📌<b>Location:</b> Kalol, Gujarat &nbsp;|&nbsp;
   🎓 <b>Focus:</b> Product Manager in AI
@@ -57,10 +38,40 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 - 🎨 **Interests:** Interactive web apps using HTML, CSS & JavaScript , react, python, ruby ... etc. 
 
 ---
-## 🐍 Contribution Snake
+## 🌐 Connect With Me  
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sahilchaudhari32/sahilchaudhari32/output/github-snake-dark.svg"/>
+
+<a href="https://www.youtube.com/@codewithsahil-1e9">
+  <img src="https://img.shields.io/badge/YouTube-Code%20With%20Sahil-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sahil-chaudhari-4b2960376/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Chaudhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/sahilchaudhari32">
+  <img src="https://img.shields.io/badge/GitHub-sahilchaudhari32-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://x.com/Sahil_cdry">
+  <img src="https://img.shields.io/badge/X-Sahil__cdry-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<br/>
+
+<a href="https://www.sololearn.com/en/profile/34707284">
+  <img src="https://img.shields.io/badge/SoloLearn-Profile-149EF2?style=for-the-badge&logo=sololearn&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/DarkDevil-/">
+  <img src="https://img.shields.io/badge/LeetCode-DarkDevil-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+  <a href="mailto:sahil.v.chaudhari.cg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Sahil-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 </p>
 
 ## <h1 align="center">🛠️ My Tech Toolbox</h1>
@@ -122,37 +133,13 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 <br />
 
 ---
-## 🌐 Connect With Me  
+
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<a href="https://www.youtube.com/@codewithsahil-1e9">
-  <img src="https://img.shields.io/badge/YouTube-Code%20With%20Sahil-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/sahil-chaudhari-4b2960376/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Chaudhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/sahilchaudhari32">
-  <img src="https://img.shields.io/badge/GitHub-sahilchaudhari32-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://x.com/Sahil_cdry">
-  <img src="https://img.shields.io/badge/X-Sahil__cdry-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<br/>
-
-<a href="https://www.sololearn.com/en/profile/34707284">
-  <img src="https://img.shields.io/badge/SoloLearn-Profile-149EF2?style=for-the-badge&logo=sololearn&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/DarkDevil-/">
-  <img src="https://img.shields.io/badge/LeetCode-DarkDevil-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
+<img src="https://raw.githubusercontent.com/sahilchaudhari32/sahilchaudhari32/output/github-snake-dark.svg"/>
 </p>
+
 
  ## 📈 GitHub Activity Graph
 
@@ -174,11 +161,6 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
 </p>
 
-<p align="center">
-  <a href="mailto:sahil.v.chaudhari.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=300&section=footer"/>
 </p>
