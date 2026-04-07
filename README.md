@@ -160,7 +160,7 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchaudhari32&theme=react-dark&hide_border=true&area=true" alt="Sahil's Activity Graph" />
 </p>
 
-<h4 align="left">🚀 **What I Love Building**</h4>
+<h4 align="left">🚀 What I Love Building</h4>
 
 <p align="left">- Interactive web tools</p>
 <p align="left">- Logic-based applications</p>
