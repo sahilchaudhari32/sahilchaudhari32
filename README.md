@@ -50,9 +50,9 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
   <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Chaudhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/sahilchaudhari32">
+<!-- <a href="https://github.com/sahilchaudhari32">
   <img src="https://img.shields.io/badge/GitHub-sahilchaudhari32-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+</a> -->
 
 <a href="https://x.com/Sahil_cdry">
   <img src="https://img.shields.io/badge/X-Sahil__cdry-000000?style=for-the-badge&logo=x&logoColor=white" />
