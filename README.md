@@ -112,19 +112,25 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 
 <h3 align="left">🎯 Goals</h3>
 
-<p align="left">
-🚀 Become a strong <b>Full-Stack Developer</b><br>
-🛠 Build useful tools and real-world applications<br>
-📈 Continuously improve programming knowledge
-</p>
 
-<h3 align="left">📚 Learning Mindset</h3>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">
-🔍 Exploring new technologies<br>
-🧩 Solving programming challenges<br>
-⚡ Improving development and problem-solving skills
-</p>
+- 🚀 Become a strong <b>Full-Stack Developer</b><br>
+- 🛠 Build useful tools and real-world applications<br>
+- 📈 Continuously improve programming knowledge
+
+</td>
+<td width="50%" valign="top">
+
+- 🔍 Exploring new technologies<br>
+- 🧩 Solving programming challenges<br>
+- ⚡ Improving development and problem-solving skills
+
+</td>
+</tr>
+</table>
   
 ## 📊 Performance & Stats
 
