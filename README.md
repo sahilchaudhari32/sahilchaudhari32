@@ -1,173 +1,416 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=260&section=header&text=Hey👋%20What's%20Up,&fontSize=38&fontAlign=50&fontAlignY=30&fontColor=ffffff&desc=I%20am%20Sahil%20Chaudhari&descAlign=50&descAlignY=50&descSize=30"/>
-</p> 
-<!-- <h2 align="center">Hey👋 What's </h2>
-<h1 align="center">I'm Sahil Chaudhari </h1>  -->
-<h4 align="center">Currently, I am a 1st-year (2nd semester) student at CodingGita, Swaminarayan University. </h4>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Web+Developer;Crafting+Innovative+Solutions;Enthusiast+Programmer;Turning+Logic+into+Impactful+Code" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:7C3AED&height=260&section=header&text=Sahil%20Chaudhari&fontSize=48&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineer%20%7C%20AI%20%26%20Product%20Builder&descAlign=50&descAlignY=58&descSize=20&animation=fadeIn"/>
 </p>
 
-### <pre margin:20px> 🌐Web Developer  |  C Programmer  |  💻Creative Coder  |  🎮Game Developer  |  🎮Gamer</pre>
-
 <p align="center">
-  🔧 <b>Skills:</b> Web Development &nbsp;|&nbsp;
-   📌<b>Location:</b> Kalol, Gujarat &nbsp;|&nbsp;
-  🎓 <b>Focus:</b> Product Manager in AI
-</p>
-
----
-
-## 📘 About Me<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="420" height="300" align="right" />
-
-I am a **developer** passionate about building interactive tools and logical applications.  
-I enjoy working close to fundamentals — from **C programming** to **clean HTML/CSS layouts**.
-
-🔭 **Current Focus**
-- Improving programming fundamentals
-- Building real-world development projects
-- Strengthening backend and frontend development skills
-
-⚡ **Strengths**
-- Debugging complex **C programming logic**
-- Writing **clean and maintainable code**
-- Creating **pixel-perfect CSS layouts**
-- Strong focus on **problem solving and logic building**
-
-- 🎨 **Interests:** Interactive web apps using HTML, CSS & JavaScript , react, python, ruby ... etc. 
-
----
-## 🌐 Connect With Me  
-
-<p align="center">
-
-<a href="https://www.youtube.com/@codewithsahil-1e9">
-  <img src="https://img.shields.io/badge/YouTube-Code%20With%20Sahil-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/sahil-chaudhari-4b2960376/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Chaudhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<!-- <a href="https://github.com/sahilchaudhari32">
-  <img src="https://img.shields.io/badge/GitHub-sahilchaudhari32-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a> -->
-
-<a href="https://x.com/Sahil_cdry">
-  <img src="https://img.shields.io/badge/X-Sahil__cdry-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<br/>
-
-<a href="https://www.sololearn.com/en/profile/34707284">
-  <img src="https://img.shields.io/badge/SoloLearn-Profile-149EF2?style=for-the-badge&logo=sololearn&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/DarkDevil-/">
-  <img src="https://img.shields.io/badge/LeetCode-DarkDevil-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-  <a href="mailto:sahil.v.chaudhari.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Sahil-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/sahilchaudhari32">
+    <img src="https://komarev.com/ghpvc/?username=sahilchaudhari32&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
   </a>
-
 </p>
 
-## <h1 align="center">🛠️ My Tech Toolbox</h1>
+<h2 align="center">
+  Building software that solves real problems.
+</h2>
 
-<div align="center">
- 
-<div align="center"><h3 align="center">Frontend</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" align="center" alt="typescript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-<img src = "https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="tailwindcss"/>
+<p align="center">
+  I design, build, and experiment with modern web applications, AI-powered products,
+  and developer-focused tools.
+</p>
 
-</div>
- <br/>
-<div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-<!-- <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/Mongoose-%2300f.svg?style=for-the-badge&logoColor=white" alt="mongoose"/>
-<img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="restapi"/>
- </div>
- 
- <div align="center"><h3 align="center">Tools</h3> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+%26+Product+Builder;Problem+Solver;Creative+Engineer;Turning+Ideas+into+Products" />
+</p>
 
-<img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify" />
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
-<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase"/>
-<br />
 ---
 
-<h3 align="left">🎯 Goals</h3>
+## 👋 About Me
 
+I'm **Sahil Chaudhari**, a software developer focused on building products at the intersection of **engineering, AI, design, and product thinking**.
+
+I enjoy taking an idea from:
+
+**Problem → Research → Design → Development → Testing → Product**
+
+My goal isn't simply to write more code.
+
+It's to build software that is **useful, scalable, intuitive, and meaningful**.
+
+```text
+Current Direction
+────────────────────────────────────────────
+
+Software Engineering  ████████████████████
+AI & Intelligent Apps ██████████████████░░
+Product Thinking      ████████████████░░░░
+UI / UX               ███████████████░░░░░
+System Design         ████████████░░░░░░░░
+```
+
+---
+
+## 🚀 What I'm Building Toward
+
+I am developing a strong foundation across three areas:
+
+### 💻 Engineering
+
+Building reliable and maintainable full-stack applications.
+
+### 🤖 AI
+
+Exploring how AI can transform traditional software into intelligent products.
+
+### 🎯 Product
+
+Learning how to identify problems, understand users, prioritize features, and turn ideas into products people actually want.
+
+> **Long-term vision:** Become an engineer who understands not only *how to build software*, but also *what should be built and why*.
+
+---
+
+## 🧠 Engineering Philosophy
+
+```text
+Understand the problem.
+        ↓
+Think from the user's perspective.
+        ↓
+Design the simplest useful solution.
+        ↓
+Build with strong fundamentals.
+        ↓
+Measure → Learn → Improve.
+```
+
+I value:
+
+* Clean and maintainable architecture
+* Strong programming fundamentals
+* User-centered product decisions
+* Simple interfaces
+* Performance and scalability
+* Continuous learning
+* Practical experimentation
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
+</p>
+
+### Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase" />
+</p>
+
+### Programming
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ruby" />
+</p>
+
+### Tools & Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,netlify,docker" />
+</p>
+
+---
+
+# 🧩 Areas I Like Working In
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-- 🚀 Become a strong <b>Full-Stack Developer</b><br>
-- 🛠 Build useful tools and real-world applications<br>
-- 📈 Continuously improve programming knowledge
+### 🌐 Full-Stack Development
+
+* Modern web applications
+* REST APIs
+* Authentication systems
+* Database architecture
+* Responsive interfaces
+* Developer tools
 
 </td>
+
 <td width="50%" valign="top">
 
-- 🔍 Exploring new technologies<br>
-- 🧩 Solving programming challenges<br>
-- ⚡ Improving development and problem-solving skills
+### 🤖 AI & Product
+
+* AI-powered applications
+* Intelligent automation
+* AI-assisted workflows
+* Product experimentation
+* User-focused features
+* Data-driven decisions
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Interface Engineering
+
+* UI/UX
+* Interactive experiences
+* Design systems
+* Motion & micro-interactions
+* Accessibility
+* Performance
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Problem Solving
+
+* Data Structures & Algorithms
+* Competitive programming
+* Debugging
+* Logical thinking
+* System design fundamentals
+* Software architecture
 
 </td>
 </tr>
 </table>
-  
-## 📊 Performance & Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilchaudhari32&theme=tokyonight&hide_border=true" alt="Sahil's GitHub Streak" />
-</div>
-<br />
 
 ---
 
-## 🐍 Contribution Snake
+# 🚀 Selected Projects
+
+> A good GitHub profile should show what you **build**, not only what you **know**.
+
+### 🔗 Dev-Connect
+
+**University Networking & Collaboration Platform**
+
+A platform designed to help students discover developers, collaborate on projects, showcase their work, and build meaningful university connections.
+
+**Focus:**
+`Full-Stack` `Community` `Authentication` `Search` `Projects`
+
+---
+
+### 📊 ChurnIQ
+
+**AI-Powered Customer Churn Intelligence**
+
+A product concept focused on helping businesses understand customer behavior, identify churn patterns, and make data-driven retention decisions.
+
+**Focus:**
+`AI` `Analytics` `Product` `Data Visualization`
+
+---
+
+### ⚡ Syncora
+
+**Modern Collaboration & Productivity Platform**
+
+A product-oriented platform concept focused on organizing teams, projects, tasks, and workflows into one streamlined experience.
+
+**Focus:**
+`SaaS` `Full-Stack` `Product Design` `Collaboration`
+
+---
+
+### 🧪 More Experiments
+
+I continuously build smaller experiments to explore:
+
+* New technologies
+* AI integrations
+* UI concepts
+* APIs
+* Developer tools
+* Automation
+* Product ideas
+
+> **Explore all projects →**
+> `github.com/sahilchaudhari32`
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sahilchaudhari32/sahilchaudhari32/output/github-snake-dark.svg"/>
-</p>
-
-
- ## 📈 GitHub Activity Graph
-
-<p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchaudhari32&theme=react-dark&hide_border=true&area=true" alt="Sahil's Activity Graph" />
-</p>
-
-<h4 align="left">🚀 What I Love Building</h4>
-
-<p align="left">- Interactive web tools</p>
-<p align="left">- Logic-based applications</p>
-<p align="left">- Clean and responsive web interfaces</p>
-
-   <p align="center">
-    <i>Take a look at my repositories and let's get in touch!</i><br><br>
-    <code>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
-</code>
-   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilchaudhari32&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=300&section=footer"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchaudhari32&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+# 🐍 Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahilchaudhari32/sahilchaudhari32/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+# 🎯 2026 → Future
+
+Instead of chasing every new technology, I'm focusing on building **depth**.
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 01
+
+**Engineering**
+
+Strong fundamentals
+Clean architecture
+Scalable systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 02
+
+**AI**
+
+Intelligent products
+AI workflows
+Applied experimentation
+
+</td>
+
+<td align="center" width="25%">
+
+### 03
+
+**Product**
+
+User research
+Product strategy
+Feature prioritization
+
+</td>
+
+<td align="center" width="25%">
+
+### 04
+
+**Impact**
+
+Real users
+Real problems
+Real products
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Advanced Full-Stack Engineering
+        ↓
+System Design
+        ↓
+AI Engineering
+        ↓
+Product Management
+        ↓
+Data-Driven Product Development
+        ↓
+Building Scalable Products
+```
+
+I'm especially interested in understanding how **engineering + AI + product strategy** can work together to create better software.
+
+---
+
+# 🌎 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/sahilchaudhari32">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sahil-chaudhari-4b2960376/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Sahil_cdry">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@codewithsahil-1e9">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/DarkDevil-/">
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:sahil.v.chaudhari.cg@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 A Little More About Me
+
+```yaml
+name: Sahil Chaudhari
+
+role:
+  - Software Developer
+  - AI & Product Builder
+
+interests:
+  - Artificial Intelligence
+  - Full-Stack Development
+  - Product Management
+  - UI/UX
+  - Developer Tools
+  - System Design
+
+mindset:
+  - Build
+  - Learn
+  - Experiment
+  - Iterate
+  - Ship
+
+currently:
+  building: Real-world software projects
+  learning: AI + Product + Engineering
+  improving: Problem solving and system design
+
+long_term:
+  "Build products that people genuinely find useful."
+```
+
+---
+
+<p align="center">
+  <strong>Build things. Solve problems. Create impact.</strong>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:7C3AED,100:0F172A&height=180&section=footer"/>
 </p>
