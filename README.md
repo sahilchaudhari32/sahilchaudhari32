@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:7C3AED&height=260&section=header&text=Sahil%20Chaudhari&fontSize=48&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineer%20%7C%20AI%20%26%20Product%20Builder&descAlign=50&descAlignY=58&descSize=20&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:7C3AED&height=260&section=header&text=Sahil%20Chaudhari&fontSize=48&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&desc=Fullstack%20Developer%20%7C%20Web/App%20Product%20Builder&descAlign=50&descAlignY=58&descSize=20&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ It's to build software that is **useful, scalable, intuitive, and meaningful**.
 Current Direction
 ────────────────────────────────────────────
 
-Software Engineering  ████████████████████
+Full Stack Developar  ████████████████████
 AI & Intelligent Apps ██████████████████░░
 Product Thinking      ████████████████░░░░
 UI / UX               ███████████████░░░░░
