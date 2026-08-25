@@ -208,14 +208,12 @@ I value:
 
 <br/>
 
-# 📈 GitHub Activity
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilchaudhari32&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchaudhari32&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahilchaudhari32&theme=github-dark&border_radius=4.8)](https://git.io/streak-stats)
+
 </p>
 
 ---
