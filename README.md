@@ -184,59 +184,29 @@ I value:
 
 ---
 
-# 🚀 Selected Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-> A good GitHub profile should show what you **build**, not only what you **know**.
+<br/>
 
-### 🔗 Dev-Connect
+<div align="center">
 
-**University Networking & Collaboration Platform**
+<h2>⚡ &nbsp;LeetCode Journey</h2>
 
-A platform designed to help students discover developers, collaborate on projects, showcase their work, and build meaningful university connections.
+<sub>Practising daily — Arrays · Strings · Trees · Graphs · Dynamic Programming</sub>
 
-**Focus:**
-`Full-Stack` `Community` `Authentication` `Search` `Projects`
+<br/><br/>
 
----
+[![LeetCode Stats](https://leetcard.jacoblin.cool/DarkDevil-?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12)](https://leetcode.com/DarkDevil-)
 
-### 📊 ChurnIQ
+<br/>
 
-**AI-Powered Customer Churn Intelligence**
+[![LeetCode](https://img.shields.io/badge/Visit%20My%20LeetCode-DarkDevil--FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/DarkDevil-)
+&nbsp;
+![Algo](https://img.shields.io/badge/Focus-Algorithms%20%26%20Patterns-58A6FF?style=for-the-badge&labelColor=0d1117)
 
-A product concept focused on helping businesses understand customer behavior, identify churn patterns, and make data-driven retention decisions.
+</div>
 
-**Focus:**
-`AI` `Analytics` `Product` `Data Visualization`
-
----
-
-### ⚡ Syncora
-
-**Modern Collaboration & Productivity Platform**
-
-A product-oriented platform concept focused on organizing teams, projects, tasks, and workflows into one streamlined experience.
-
-**Focus:**
-`SaaS` `Full-Stack` `Product Design` `Collaboration`
-
----
-
-### 🧪 More Experiments
-
-I continuously build smaller experiments to explore:
-
-* New technologies
-* AI integrations
-* UI concepts
-* APIs
-* Developer tools
-* Automation
-* Product ideas
-
-> **Explore all projects →**
-> `github.com/sahilchaudhari32`
-
----
+<br/>
 
 # 📈 GitHub Activity
 
